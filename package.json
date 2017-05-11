@@ -50,7 +50,7 @@
     "shelljs": "^0.7.0",
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
-    "oe-environment": "git+https://github.com/EdgeVerve/oe-environment.git"
+    "oe-environment": "git+https://github.com/EdgeVerve/oe-environment.git#master"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
