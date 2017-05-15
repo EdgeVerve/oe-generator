@@ -14,8 +14,7 @@
   },
   "scripts": {
     "test": "xo && gulp",
-    "doc": "jsdoc -c jsdoc.json",
-    "prepublish": "gulp prepublish"
+    "doc": "jsdoc -c jsdoc.json"
   },
   "files": [
     "lib"
