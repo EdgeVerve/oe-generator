@@ -52,7 +52,7 @@
     "shelljs": "^0.7.0",
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
-    "oe-environment": "^0.8.0"
+    "oe-environment": "^1.6.6"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
