@@ -3,7 +3,10 @@
   "version": "1.1.1",
   "description": "Rails-inspired generator system that provides scaffolding for your apps",
   "license": "BSD-2-Clause",
-  "repository": "yeoman/generator",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EdgeVerve/oe-generator.git"
+  },
   "author": "Yeoman",
   "main": "lib",
   "engines": {
@@ -50,7 +53,7 @@
     "shelljs": "^0.7.0",
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
-    "oe-environment": "git+https://github.com/EdgeVerve/oe-environment.git#master"
+    "oe-environment": "^0.8.0"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
