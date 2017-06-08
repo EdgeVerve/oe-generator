@@ -1,6 +1,6 @@
 {
   "name": "oe-generator",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Rails-inspired generator system that provides scaffolding for your apps",
   "license": "BSD-2-Clause",
   "repository": {
