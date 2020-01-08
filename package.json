@@ -61,7 +61,7 @@
     "gulp-mocha": "^3.0.1",
     "gulp-nsp": "^2.1.0",
     "gulp-plumber": "^1.0.0",
-    "inquirer": "^3.0.1",
+    "inquirer": "^6.0.0",
     "jsdoc": "^3.3.0-beta1",
     "mockery": "^2.0.0",
     "nock": "^9.0.5",
