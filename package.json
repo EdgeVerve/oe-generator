@@ -42,7 +42,7 @@
     "istextorbinary": "2.6.0",
     "lodash": "4.17.15",
     "mem-fs-editor": "6.0.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "mkdirp": "0.5.1",
     "pretty-bytes": "4.0.2",
     "read-chunk": "2.1.0",
