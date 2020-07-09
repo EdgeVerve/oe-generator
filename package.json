@@ -52,6 +52,7 @@
     "shelljs": "^0.7.0",
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
+    "strong-globalize": "6.0.3",
     "oe-environment": "git+http://evgit/oecloud.io/oe-environment.git#master"
   },
   "devDependencies": {
