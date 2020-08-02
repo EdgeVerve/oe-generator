@@ -1,6 +1,6 @@
 {
   "name": "oe-generator",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "description": "Rails-inspired generator system that provides scaffolding for your apps",
   "license": "BSD-2-Clause",
   "repository": {
@@ -53,7 +53,7 @@
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
     "strong-globalize": "6.0.3",
-    "oe-environment": "git+http://evgit/oecloud.io/oe-environment.git#master"
+    "oe-environment": "git+http://evgit/oecloud.io/oe-environment.git#1.6.7"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
